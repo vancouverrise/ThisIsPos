@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978114747746",
+    "firebase_url": "https://thisispos.firebaseio.com",
+    "project_id": "thisispos",
+    "storage_bucket": "thisispos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978114747746:android:dad76dc92711e96570e03b",
+        "android_client_info": {
+          "package_name": "com.iksmarket.thisispos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978114747746-6bp5m95g1tpuhp2gfd2nnd1e3b4elqpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iksmarket.thisispos",
+            "certificate_hash": "5e29908e387f43a30d3b7ea12bf9038ec32aa42f"
+          }
+        },
+        {
+          "client_id": "978114747746-k4oj86pt0begsria6r4vfj1qe0oad39h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-44WU7H56j89qHOUakiaS71OJcURaLMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978114747746-k4oj86pt0begsria6r4vfj1qe0oad39h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
